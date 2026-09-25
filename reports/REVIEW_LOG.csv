@@ -1,0 +1,5 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe tối góc trên bên trái bị che khuất chỉ lộ cụm đèn pha,added,Thấy thân xe đoán được quanh cụm đèn và đủ ranh giới theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,xe góc dưới bên phải bị nhoè mờ và cắt mép ảnh,edited,Chỉnh lại viền box ôm sát phần thân xe nhìn thấy trong khung hình không bao gồm lề đường theo GUIDELINE_LABEL.md
+1,frame_0182.jpg,vệt sáng phản chiếu ánh đèn pha trên mặt đường,deleted,Xoá box theo GUIDELINE_LABEL.md do ánh đèn phản chiếu trên mặt đường không phải thân xe
+1,frame_0331.jpg,xe con làn giữa nhìn rõ thân xe,accepted,Box AI nhận diện chính xác ôm khít thân xe cả gương và đèn theo GUIDELINE_LABEL.md
